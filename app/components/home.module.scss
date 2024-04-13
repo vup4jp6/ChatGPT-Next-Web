@@ -17,6 +17,11 @@
   height: var(--window-height);
 }
 
+.chat-gpt-icon {
+  width: 100px;  /* 设置图标的宽度 */
+  height: 100px; /* 设置图标的高度 */
+}
+
 .container {
   @include container();
 }

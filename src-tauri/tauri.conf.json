@@ -8,7 +8,7 @@
     "withGlobalTauri": true
   },
   "package": {
-    "productName": "NextChat",
+    "productName": "Make2Real AI",
     "version": "2.11.3"
   },
   "tauri": {
