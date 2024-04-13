@@ -77,7 +77,7 @@
         "signingIdentity": null
       },
       "resources": [],
-      "shortDescription": "NextChat App",
+      "shortDescription": "Make2RealAI App",
       "targets": "all",
       "windows": {
         "certificateThumbprint": null,
@@ -92,7 +92,7 @@
     "updater": {
       "active": true,
       "endpoints": [
-        "https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web/releases/latest/download/latest.json"
+        "https://make2real.ai"
       ],
       "dialog": false,
       "windows": {
@@ -105,7 +105,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "NextChat",
+        "title": "Make2RealAI",
         "width": 960,
         "hiddenTitle": true,
         "titleBarStyle": "Overlay"
