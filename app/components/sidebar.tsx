@@ -155,10 +155,10 @@ export function SideBar(props: { className?: string }) {
     >
       <div className={styles["sidebar-header"]} data-tauri-drag-region>
         <div className={styles["sidebar-title"]} data-tauri-drag-region>
-          Make2Real AI
+          Make2Real.AI
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          Make2Real AI demo
+          Your Best Cognify AI partner
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
