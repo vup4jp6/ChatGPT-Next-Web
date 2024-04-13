@@ -161,7 +161,7 @@ export function SideBar(props: { className?: string }) {
           Make2Real AI demo
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
-          <ChatGptIcon className="chat-gpt-icon" />
+          <ChatGptIcon />
         </div>
       </div>
 
