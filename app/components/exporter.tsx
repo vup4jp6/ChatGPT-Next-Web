@@ -547,7 +547,7 @@ export function ImagePreviewer(props: {
           </div>
 
           <div>
-            <div className={styles["main-title"]}>NextChat</div>
+            <div className={styles["main-title"]}>Make2RealAI</div>
             <div className={styles["sub-title"]}>
               make2real.ai/ChatGPT-Next-Web
             </div>
