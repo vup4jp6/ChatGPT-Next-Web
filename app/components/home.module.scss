@@ -18,8 +18,8 @@
 }
 
 .chat-gpt-icon {
-  width: 60px !important;  /* 设置图标的宽度 */
-  height: 60px !important; /* 设置图标的高度 */
+  max-width: 70px !important;  /* 设置图标的宽度 */
+  max-height: 70px !important; /* 设置图标的高度 */
 }
 
 .container {
