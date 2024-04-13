@@ -158,7 +158,7 @@ export function SideBar(props: { className?: string }) {
           Make2Real AI
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          Build your own AI assistant.
+          Make2Real AI demo
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
