@@ -21,9 +21,9 @@ import {
 
 import CopyIcon from "../icons/copy.svg";
 import LoadingIcon from "../icons/three-dots.svg";
-import ChatGptIcon from "../icons/make2real.ai_black_0.png";
+import ChatGptIcon from "../icons/make2real.ai_black_0.svg";
 import ShareIcon from "../icons/share.svg";
-import BotIcon from "../icons/make2real.ai_White_0.png";
+import BotIcon from "../icons/make2real.ai_White_0.svg";
 
 import DownloadIcon from "../icons/download.svg";
 import { useEffect, useMemo, useRef, useState } from "react";
